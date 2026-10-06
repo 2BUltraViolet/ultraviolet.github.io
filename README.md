@@ -1,6 +1,6 @@
 # My Site
 
-Personal site hosted on GitHub Pages.
+Very basic personal site hosted on GitHub Pages. I don't think there'll be much here.
 
 ## Links
 
@@ -11,4 +11,4 @@ Personal site hosted on GitHub Pages.
 
 - Static HTML/CSS
 - GitHub Pages
-- Cloudflare DNS   
+- Cloudflare DNS
