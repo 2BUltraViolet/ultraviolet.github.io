@@ -1,4 +1,4 @@
-fetch(`https://api.github.com/users/purpleshadez/repos?per_page=100&sort=pushed`)
+fetch(`https://api.github.com/users/2BUltraViolet/repos?per_page=100&sort=pushed`)
   .then(r => r.json())
   .then(repos => {
     document.getElementById("repos").innerHTML = repos
