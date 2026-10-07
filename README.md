@@ -1,4 +1,4 @@
-# Ultra Violet
+# UltraViolet
 A very basic personal site hosted on GitHub Pages.
 
 ## Links
