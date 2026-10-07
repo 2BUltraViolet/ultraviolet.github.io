@@ -25,7 +25,6 @@ a {
 
 a:hover {
     color: #ffffff;
-    text-decoration: underline;
 }
 
 a:visited {
@@ -89,7 +88,6 @@ h1 {
 
 .social-links a {
     color: #d8b4fe;
-    text-decoration: none;
     padding: 0.5rem 0.5rem;
     border: 1px solid #9b59b6;
     border-radius: 4px;
@@ -147,8 +145,10 @@ footer p {
 }
 
 .repo a { 
-    color: #d8b4fe; 
-    text-decoration: none; 
+    color: #d8b4fe;
+}
+.repo a:hover { 
+    color: #ffffff;
 }
 
 .repo p { 
