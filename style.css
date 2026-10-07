@@ -19,12 +19,12 @@ body {
 }
 
 a {
-    color: #d8b4fe;
+    color: #9b59b6;
     text-decoration: none;
 }
 
 a:visited {
-    color: #d8b4fe;
+    color: #9b59b6;
 }
 
 a:hover {
@@ -146,7 +146,7 @@ footer p {
 }
 
 .repo a { 
-    color: #d8b4fe;
+    color: #9b59b6;
 }
 .repo a:hover { 
     color: #ffffff;
