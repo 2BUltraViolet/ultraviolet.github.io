@@ -23,13 +23,14 @@ a {
     text-decoration: none;
 }
 
+a:visited {
+    color: #d8b4fe;
+}
+
 a:hover {
     color: #ffffff;
 }
 
-a:visited {
-    color: #d8b4fe;
-}
 
 /* Container Layout */
 .container {
