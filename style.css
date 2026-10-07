@@ -43,6 +43,15 @@ a:visited {
     width: 100%;
 }
 
+/* Image Styling */
+.image {
+    max-width: 100%;
+    max-height: 60vh;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(191, 158, 227, 0.6);
+}
+
 /* Typography */
 h1 {
     font-size: 2.5rem;
@@ -92,6 +101,7 @@ h1 {
 /* Hover Effects */
 .social-links a:hover {
     background-color: #9b59b6;
+    color: #ffffff;
     box-shadow: 0 0 15px #9b59b6;
     transform: translateY(-2px);
 }
